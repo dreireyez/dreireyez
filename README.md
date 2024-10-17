@@ -12,6 +12,9 @@
     </ul>
 </ul>
 <h2>📃 Certifications</h2>
+<ul>
+    <li><a href="https://courses.cognitiveclass.ai/certificates/c10265074e9c459eb4f9fa4a65879192" target=_blank>SQL and Relational Databases 101</a></li>
+</ul>
 <h2>💻 Skills</h2>
 <b>Basic Web Development</b>
 
