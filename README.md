@@ -29,5 +29,5 @@
 </ul>
 <h2>📞 Connect with Me</h2>
 <ul>
-  <li><a href="">My LinkedIn Profile</a></li>
+  <li><a href="https://www.linkedin.com/in/djemandreifreyes/">My LinkedIn Profile</a></li>
 </ul>
