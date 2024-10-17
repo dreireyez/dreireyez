@@ -13,7 +13,7 @@
 </ul>
 <h2>📃 Certifications</h2>
 <ul>
-    <li><a href="https://courses.cognitiveclass.ai/certificates/c10265074e9c459eb4f9fa4a65879192" target=_blank>SQL and Relational Databases 101</a></li>
+    <li><a href="https://courses.cognitiveclass.ai/certificates/c10265074e9c459eb4f9fa4a65879192" target="_blank">SQL and Relational Databases 101</a></li>
 </ul>
 <h2>💻 Skills</h2>
 <b>Basic Web Development</b>
@@ -32,5 +32,5 @@
 
 <h2>🌐 Socials</h2>
 
-<a href="https://www.linkedin.com/in/djemandreifreyes/" target=_blank>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.youtube.com/@dreireyez" target=_blank>![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/djemandreifreyes/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.youtube.com/@dreireyez" target="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
