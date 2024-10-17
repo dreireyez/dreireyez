@@ -1,33 +1,33 @@
-<h1>Hello there! My name is Djem Andreif Reyes (@dreireyez).👋</h1>
-<p>I am a BS Computer Science student, studying at New Era University in Quezon City, Philippines. I am passionate about learning the in-and-outs of the field of technology.</p>
+<h1>👋 Hey, I'm Drei! (@dreireyez).</h1>
+<p>My name is Djem Andreif Reyes, I am a BS Computer Science student at New Era University in Quezon City, Philippines. I am passionate about software development, algorithms, and data structures! Always learning and building!</p>
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 <h2>📚 Education</h2>
-<ul>
-  <li>Undergraduate
+<b>New Era University</b>
     <ul>
-      <li>New Era University (2024-2027)</li>
-      <li>No. 9 Central Ave., New Era, Quezon City, Metro Manila, Philippines</li>
+      <li>Bachelor of Science in Computer Science</li>
+      <li>2023-2027</li>
     </ul>
-  </li>
-  <li>Senior High School
-    <ul>
-      <li>San Francisco High School (2021-2023)</li>
-      <li>No. 1 Misamis St., Bago Bantay, Quezon City, Metro Manila, Philippines</li>
-    </ul>
-  </li>
-  <li>Junior High School
-    <ul>
-      <li>Culiat High School (2017-2021)</li>
-      <li>No. 441 Tandang Sora Ave., Culiat, Quezon City, Metro Manila, Philippines</li>
-    </ul>
-  </li>
 </ul>
 <h2>📃 Certifications</h2>
-<h2>🤹‍♀️ Skills</h2>
-<ul>
-  <li>Java, JavaScript, HTML, CSS, Firebase</li>
-  <li>Content Creation</li>
-</ul>
-<h2>📞 Connect with Me</h2>
-<ul>
-  <li><a href="https://www.linkedin.com/in/djemandreifreyes/">My LinkedIn Profile</a></li>
-</ul>
+<h2>💻 Skills</h2>
+<b>Basic Web Development</b>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
+<b>Intermediate Programming</b><br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
+<b>Database Management</b><br>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)<br>
+<b>Content Creation</b><br>
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+<h2>🌐 Socials</h2>
+
+<a href="https://www.linkedin.com/in/djemandreifreyes/" target=_blank>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.youtube.com/@dreireyez" target=_blank>![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
