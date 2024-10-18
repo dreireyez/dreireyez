@@ -1,4 +1,4 @@
-<h1>👋 Hey, I'm Drei! (@dreireyez).</h1>
+<h1>👋 Hey, I'm Drei!</h1>
 <p>My name is Djem Andreif Reyes, I am a BS Computer Science student at New Era University in Quezon City, Philippines. I am passionate about software development, algorithms, and data structures! Always learning and building!</p>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -14,6 +14,7 @@
 <h2>📃 Certifications</h2>
 <ul>
     <li><a href="https://courses.cognitiveclass.ai/certificates/c10265074e9c459eb4f9fa4a65879192" target="_blank">SQL and Relational Databases 101</a></li>
+    <li><a href="https://courses.cognitiveclass.ai/certificates/ce9c0ca310074362b8db0f48868c462f" target="_blank">Data Analysis with Python</a></li>
 </ul>
 <h2>💻 Skills</h2>
 <b>Basic Web Development</b>
