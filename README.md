@@ -15,6 +15,7 @@
 <ul>
     <li><a href="https://courses.cognitiveclass.ai/certificates/c10265074e9c459eb4f9fa4a65879192" target="_blank">SQL and Relational Databases 101</a></li>
     <li><a href="https://courses.cognitiveclass.ai/certificates/ce9c0ca310074362b8db0f48868c462f" target="_blank">Data Analysis with Python</a></li>
+    <li><a href="https://courses.cognitiveclass.ai/certificates/4bf3b842c7fb46968e551b26471c937a" target="_blank">Data Visualization with Python</a></li>
 </ul>
 <h2>💻 Skills</h2>
 <b>Basic Web Development</b>
