@@ -5,12 +5,16 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 <h2>📚 Education</h2>
-<b>New Era University</b>
+<b>Bachelor of Science in Computer Science</b>
     <ul>
-      <li>Bachelor of Science in Computer Science</li>
+      <li>New Era University</li>
       <li>2023-2027</li>
     </ul>
-</ul>
+<b>Senior High School (ICT)</b>
+    <ul>
+      <li>San Francisco High School</li>
+      <li>2021-2023</li>
+    </ul>
 <h2>📃 Certifications</h2>
 <ul>
     <li><a href="https://courses.cognitiveclass.ai/certificates/c10265074e9c459eb4f9fa4a65879192" target="_blank">SQL and Relational Databases 101</a></li>
