@@ -1,5 +1,5 @@
-<h1>👋 Hey, I'm Drei!</h1>
-<p>My name is Djem Andreif Reyes, I am a BS Computer Science student at New Era University in Quezon City, Philippines. I am passionate about software development, algorithms, and data structures! Always learning and building!</p>
+<h1 align="center">👋 Hey, I'm Drei!</h1>
+<p align="center">I am a BS Computer Science student at New Era University in Quezon City, Philippines. I am passionate about software development, algorithms, and data structures! Always learning and building!</p> 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
