@@ -32,7 +32,7 @@
     <td><a href="https://courses.cognitiveclass.ai/certificates/4bf3b842c7fb46968e551b26471c937a" target="_blank">Data Visualization with Python</a></td>
     </tr>
     <tr>
-    <td>Oracle Cloud Infrastructure 2024 Foundations Associate</td>
+    <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EA10CCAABA256E19104B7C17579BF18DF2E55183F9918DB53AEC6105A1FE2CA7" target="_blank">Oracle Cloud Infrastructure 2024 Foundations Associate</a></td>
     <td>Oracle University</td>
     </tr>
 </table>
