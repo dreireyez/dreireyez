@@ -33,13 +33,7 @@
     </tr>
     <tr>
     <td>Oracle Cloud Infrastructure 2024 Foundations Associate</td>
-    <td rowspan="3">Oracle University</td>
-    </tr>
-    <tr>
-    <td>Oracle Cloud Infrastructure 2024 AI Foundations Associate</td>
-    </tr>
-    <tr>
-    <td>Oracle Cloud Data Management 2024 Foundations Associate</td>
+    <td>Oracle University</td>
     </tr>
 </table>
 <h2>⚙ | Skills</h2>
