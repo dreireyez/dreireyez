@@ -18,6 +18,10 @@
 <h2>📃 | Certifications</h2>
 <table>
     <tr>
+    <td><b>Title</b></td>
+    <td><b>Issued By</b></td>
+    </tr>
+    <tr>
     <td>
     <a href="https://courses.cognitiveclass.ai/certificates/c10265074e9c459eb4f9fa4a65879192" target="_blank">SQL and Relational Databases 101</a>
     </td>
@@ -32,7 +36,7 @@
     <td><a href="https://courses.cognitiveclass.ai/certificates/4bf3b842c7fb46968e551b26471c937a" target="_blank">Data Visualization with Python</a></td>
     </tr>
     <tr>
-    <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EA10CCAABA256E19104B7C17579BF18DF2E55183F9918DB53AEC6105A1FE2CA7" target="_blank">Oracle Cloud Infrastructure 2024 Foundations Associate</a></td>
+    <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EA10CCAABA256E19104B7C17579BF18DF2E55183F9918DB53AEC6105A1FE2CA7" target="_blank">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a></td>
     <td>Oracle University</td>
     </tr>
 </table>
