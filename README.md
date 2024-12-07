@@ -37,7 +37,10 @@
     </tr>
     <tr>
     <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EA10CCAABA256E19104B7C17579BF18DF2E55183F9918DB53AEC6105A1FE2CA7" target="_blank">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a></td>
-    <td>Oracle University</td>
+    <td rowspan="2">Oracle University</td>
+    </tr>
+    <tr>
+        <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EA10CCAABA256E19104B7C17579BF18D7DF1377B34FE2DDDE9492DEBDC20776F">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a></td>
     </tr>
 </table>
 <h2>⚙ | Skills</h2>
