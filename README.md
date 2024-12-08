@@ -20,27 +20,33 @@
     <tr>
     <td><b>Title</b></td>
     <td><b>Issued By</b></td>
+    <td><b>Issued On</b></td>
     </tr>
     <tr>
     <td>
     <a href="https://courses.cognitiveclass.ai/certificates/c10265074e9c459eb4f9fa4a65879192" target="_blank">SQL and Relational Databases 101</a>
     </td>
     <td rowspan="3">Cognitive Class</td>
+    <td>October 2024</td>
     </tr>
     <tr>
     <td>
     <a href="https://courses.cognitiveclass.ai/certificates/ce9c0ca310074362b8db0f48868c462f" target="_blank">Data Analysis with Python</a>
     </td>
+    <td>October 2024</td>
     </tr>
     <tr>
     <td><a href="https://courses.cognitiveclass.ai/certificates/4bf3b842c7fb46968e551b26471c937a" target="_blank">Data Visualization with Python</a></td>
+    <td>October 2024</td>
     </tr>
     <tr>
     <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EA10CCAABA256E19104B7C17579BF18DF2E55183F9918DB53AEC6105A1FE2CA7" target="_blank">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a></td>
     <td rowspan="2">Oracle University</td>
+    <td>December 2024</td>
     </tr>
     <tr>
         <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EA10CCAABA256E19104B7C17579BF18D7DF1377B34FE2DDDE9492DEBDC20776F">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a></td>
+    <td>December 2024</td>
     </tr>
 </table>
 <h2>⚙ | Skills</h2>
