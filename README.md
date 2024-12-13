@@ -46,7 +46,7 @@
         <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EA10CCAABA256E19104B7C17579BF18D7DF1377B34FE2DDDE9492DEBDC20776F">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a></td>
     </tr>
     <tr>
-        <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D80C69ABC445B3736076730CABD92CC907339BD70B5DA6990C6E75E1A06DAC1F">Oracle Cloud Infrastructure 2024 AI Certified Foundations Associate</a></td>
+        <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D80C69ABC445B3736076730CABD92CC907339BD70B5DA6990C6E75E1A06DAC1F">Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate</a></td>
     </tr>
 </table>
 <h2>⚙ | Skills</h2>
